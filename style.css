@@ -529,17 +529,7 @@ body {
   margin-bottom: 8px;
   color: #a0a64a;
 }
-/* ================= Fade-in Animation ================= */
-@keyframes fadeInCard {
-  0% {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
+
 
 /* ================= Scrollbar ================= */
 /* Chrome, Edge, Safari */
